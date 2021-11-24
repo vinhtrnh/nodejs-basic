@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/vinhtrnh/nodejs-basic/issues"
   },
-  "homepage": "https://github.com/vinhtrnh/nodejs-basic#readme",
-  "dependencies": {
-    "express": "4.17.1"
-  }
+  "homepage": "https://github.com/vinhtrnh/nodejs-basic#readme"
 }
